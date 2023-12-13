@@ -1,2 +1,4 @@
 my first time
 to learn git 
+cd untuk masuk ke file
+cd.. untuk kembali ke awal 
