@@ -1,1 +1,3 @@
 thrid
+git log 
+.. q untuk quit git log 
